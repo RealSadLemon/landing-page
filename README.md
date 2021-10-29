@@ -1,0 +1,1 @@
+A project for the programming course at 'The Odin Project'.
